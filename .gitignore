@@ -1,0 +1,7 @@
+*.bk
+*.pdf
+*.sqlite
+*.sqlite-journal
+
+/dist
+/node_modules
