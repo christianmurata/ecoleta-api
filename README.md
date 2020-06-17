@@ -14,15 +14,11 @@ API desenvolvida em Node.js, knex.js e SQLite 3
 
 ## Ecossistema
 
----
-
 A API será utilizada para o cadastro de pontos de coleta, listagem de pontos de coleta, listagem de items e para fornecer todos os dados necessários para a aplicação Web e Mobile.  
 
 ![Ecoleta](assets/images/ecoleta.png)
 
 ## Configuração de Ambiente
-
----
 
 Primeiro, instale as dependências:
 
@@ -45,8 +41,6 @@ npm run dev
 
 ## Rotas
 
----
-
 | Recurso          |  Descrição                                     |
 | ---------------- | ---------------------------------------------- |
 |  GET /items      |  Retorna uma lista de items                    |
@@ -56,6 +50,5 @@ npm run dev
 
 ## Autor
 
----
 
 [Christian Murata](https://github.com/christianmurata)
